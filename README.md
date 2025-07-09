@@ -1,7 +1,7 @@
 # 🚀 Getting Started with Autogen
 
 This tutorial walks you through the basics of setting up and using **Autogen** for building simple agent workflows using function tools and large language models (LLMs).
-https://microsoft.github.io/autogen/stable//index.html
+
 ---
 
 # 🔄 Autogen vs. LangGraph
@@ -52,3 +52,5 @@ This guide compares **Autogen** and **LangGraph**, two powerful frameworks for b
 
 > 📌 **Tip:** Use **Autogen** when your goal is agentic reasoning, tool use, and human-like conversations.  
 > Use **LangGraph** when you need deterministic, graph-based control over LLM workflows like RAG pipelines or complex branching logic.
+
+> https://microsoft.github.io/autogen/stable//index.html
